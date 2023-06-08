@@ -1,0 +1,11 @@
+github.com/gonutz/check v1.2.0/go.mod h1:J5ndBcNQd4fv3I+Moevk4PXZoyXRamwwclm6dDgAuyA=
+github.com/gonutz/w32/v2 v2.2.2 h1:y6Y337TpuCXjYdFTq5p5NmcujEdAQiTB43kisovMk+0=
+github.com/gonutz/w32/v2 v2.2.2/go.mod h1:MgtHx0AScDVNKyB+kjyPder4xIi3XAcHS6LDDU2DmdE=
+github.com/gonutz/wui/v2 v2.8.0 h1:AGR/nze+Ihh/yX2quIK/CKV/M5VBLKwqYD7jE3pDZrk=
+github.com/gonutz/wui/v2 v2.8.0/go.mod h1:4twV9Ka+OwAr7Fy12YSJuAy5e4u8uTHk4YbxFyguheo=
+github.com/lxn/win v0.0.0-20210218163916-a377121e959e h1:H+t6A/QJMbhCSEH5rAuRxh+CtW96g0Or0Fxa9IKr4uc=
+github.com/lxn/win v0.0.0-20210218163916-a377121e959e/go.mod h1:KxxjdtRkfNoYDCUP5ryK7XJJNTnpC8atvtmTheChOtk=
+github.com/rodrigocfd/windigo v0.0.0-20230415184156-c84617e7171e h1:n5tW6vuGuozynjxe8C7u6oUcyVIX07nM+gh02IVJMRE=
+github.com/rodrigocfd/windigo v0.0.0-20230415184156-c84617e7171e/go.mod h1:3zHhLYU08CkrMx5cdPlmC1HObT8fSldWtfS8cnSRzYo=
+golang.org/x/sys v0.0.0-20201018230417-eeed37f84f13 h1:5jaG59Zhd+8ZXe8C+lgiAGqkOaZBruqrWclLkgAww34=
+golang.org/x/sys v0.0.0-20201018230417-eeed37f84f13/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
